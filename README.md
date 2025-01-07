@@ -1,26 +1,25 @@
 
 # An introductory overview of aerospace, satellites, and related topics.
 
-## 
-
-Over the past three years, I have been autodidact learning and researching about aerospace technology. This repository is a compilation of ideas, notes, and observations that I have collected during this time. I have organized the material in a clear and coherent manner (i hoppe XD), starting with satellite technology. I hope you find it useful for enhancing your understanding and knowledge in this amazing field :)
+Hey! over the past three years, I have been autodidact learning and researching about aerospace technology. This repository is a compilation of ideas, notes, and observations that I have collected during this time. I have organized the material in a clear and coherent manner (i hoppe XD), starting with satellite technology. I hope you find it useful for enhancing your understanding and knowledge in this amazing field :)
 
 
 
-* [Introduction ](#What is aerospace cybersecurity?)
-* [Operating System](#Operating-System)
+* [Introduction](##Introduction)
+* [Satellite orbits and technologies](##Satellite orbits and technologies)
 
 
-Introduction
+##Introduction 
 
 **What is aerospace cybersecurity?**
 
 Aerospace cybersecurity is critical for protecting the integrity of both aircraft and spacecraft operations. In a time when cyber threats are constantly evolving, it is vital to implement strong security measures to safeguard sensitive systems and data within the aerospace sector. By prioritizing aerospace cybersecurity, we can ensure the safety and reliability of our air and space industries, which in turn helps maintain public trust and promotes technological innovation.
 
-**What are satellites?**
-Satellites are objects that orbit around a planet or other celestial bodies. They can be natural, like moons, or artificial, which are man-made devices launched into space for various purposes. Artificial satellites serve many functions, including communication, weather monitoring, navigation, scientific research, and Earth observation.
 
-## Satellite Orbits
+
+##Satellite orbits and technologies
+
+Satellites are objects that orbit around a planet or other celestial bodies. They can be natural, like moons, or artificial, which are man-made devices launched into space for various purposes. Artificial satellites serve many functions, including communication, weather monitoring, navigation, scientific research, and Earth observation.
 
 Satellite orbits describe the paths that satellites travel around celestial bodies like Earth. These paths are shaped by the interplay between the planet's gravitational force and the satellite's velocity. Orbits are key in determining a satellite's purpose, its cover area, and how long it can operate. Technically, orbits are characterized by altitude, inclination, eccentricity, and time to complete a full revolution.
 
