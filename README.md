@@ -1,44 +1,13 @@
 ### Offensive Cybersecurity in Aerospace and Satellite Technology
 
-### **1. Introduction to Satellites**
 
-- **Satellite orbits**
-    - Types of orbits: low earth orbit (leo), medium earth orbit (meo), geostationary orbit (geo), and highly elliptical orbit (heo)
-    - Purposes and characteristics of different orbit types
-    - Security challenges specific to various orbits
-- **Satellite types - services**
-    - Communication satellites
-    - Earth observation satellites
-    - Navigation and positioning satellites
-    - Scientific and military satellites
-- **Satellite types - hardware**
-    - nanosatellites and cubesats
-    - commercial and government satellites
-    - structural differences based on satellite purpose
-- **Satellite components - hardware**
-    - propulsion systems
-    - payload systems
-    - subsystems for power, thermal control, and telecommunications
-    - sensors and actuators
-- **Satellite components - software**
-    - satellite operating systems
-    - software for navigation and attitude control
-    - telemetry, tracking, and command (tt&c) management
-    - risks and vulnerabilities in satellite software updates
-- **Satellite communication**
-    - key components of communication links (uplink, downlink)
-    - commonly used radio frequencies (l-band, s-band, x-band, ka-band, ku-band)
-    - communication types: unicast, multicast, broadcast
-    - satellite communication bands and their applications
-    - protocols and standards such as ccsds, dvb-s, and tcp/ip for space communication
-- **Satellite networks**
-    - network architectures (star topology, mesh, hybrid)
-    - protocols used in satellite networks
-    - satellite packet data protocols and data flow topologies
-- **Data types and formats**
-    - raw data vs processed data levels (level 0 to level 4)
-    - common data formats used in satellite communication
-    - examples of satellite data handling for earth observation and navigation
+
+
+
+
+
+
+
 
 ### **2. Introduction to cybersecurity in satellite technology**
 
