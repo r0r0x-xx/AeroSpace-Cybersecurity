@@ -6,7 +6,7 @@ Hey! over the past three years, I have been autodidact learning and researching 
 
 
 * [Introduction](##Introduction)
-* [Satellite orbits and technologies](##Satellite orbits and technologies)
+* [Satellite orbits and technologies](##Satellite-orbits-and-technologies)
 
 
 ## Introduction 
