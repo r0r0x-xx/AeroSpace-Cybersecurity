@@ -1,7 +1,7 @@
 
 # An introductory overview of aerospace, satellites, and related topics.
 
-Hey! over the past three years, I have been autodidact learning and researching about aerospace technology. This repository is a compilation of ideas, notes, and observations that I have collected during this time. I have organized the material in a clear and coherent manner (i hoppe XD), starting with satellite technology. I hope you find it useful for enhancing your understanding and knowledge in this amazing field :)
+Hey Folks! Over the past three years, I have been self-taught in aerospace technology, dedicating a lot of time to learning and researching this field. This repository is a compilation of ideas, notes, and observations I have gathered during this journey. I have organized the material in a clear and coherent manner (I hope so! XD), starting with satellite technology, followed by general aerospace security, and finally, exploring how to hack satellites. I hope you find this resource useful for enhancing your understanding and knowledge of this fascinating field! :)
 
 
 
