@@ -9,7 +9,7 @@ Hey! over the past three years, I have been autodidact learning and researching 
 * [Satellite orbits and technologies](##Satellite orbits and technologies)
 
 
-##Introduction 
+## Introduction 
 
 **What is aerospace cybersecurity?**
 
@@ -17,7 +17,7 @@ Aerospace cybersecurity is critical for protecting the integrity of both aircraf
 
 
 
-##Satellite orbits and technologies
+## Satellite orbits and technologies
 
 Satellites are objects that orbit around a planet or other celestial bodies. They can be natural, like moons, or artificial, which are man-made devices launched into space for various purposes. Artificial satellites serve many functions, including communication, weather monitoring, navigation, scientific research, and Earth observation.
 
