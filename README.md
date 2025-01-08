@@ -3,7 +3,7 @@
 
 Hey Folks! Over the past three years, I have been self-taught in aerospace technology, dedicating a lot of time to learning and researching this field. This repository is a compilation of ideas, notes, and observations I have gathered during this journey. I have organized the material in a clear and coherent manner (I hope so! XD), starting with satellite technology, followed by general aerospace security, and finally, exploring how to hack satellites. I hope you find this resource useful for enhancing your understanding and knowledge of this fascinating field! :)
 
-
+## Contents
 
 * [Introduction](##Introduction)
 * [Types of orbits used in satellite communication](###Types-of-orbits-used-in-satellite-communication)
@@ -33,8 +33,8 @@ Satellites are objects that orbit around a planet or other celestial bodies. The
 Satellite orbits describe the paths that satellites travel around celestial bodies like Earth. These paths are shaped by the interplay between the planet's gravitational force and the satellite's velocity. Orbits are key in determining a satellite's purpose, its cover area, and how long it can operate. Technically, orbits are characterized by altitude, inclination, eccentricity, and time to complete a full revolution.
 
 
+## Types of orbits used in satellite communication
 
-## Contents
 
 
 
