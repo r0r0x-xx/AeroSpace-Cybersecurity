@@ -18,7 +18,7 @@ Hey Folks! Over the past three years, I have been self-taught in aerospace techn
 * [Tools and techniques](##Tools-and-techniques)
 
 
-##Introduction 
+## Introduction 
 
 **What is aerospace cybersecurity?**
 
@@ -100,12 +100,106 @@ Satellite orbits describe the paths that satellites travel around celestial bodi
 
 This overview outlines the main types of satellites, highlighting their functions, purposes, and examples. Satellites are categorized based on their specific applications and the services they provide to industries, governments, and everyday users.
 
+**Communication satellites:**
+
+- Objective and application:
+    - They facilitate the transmission of data, television, telephony, and high-speed internet access.
+    - Intercontinental links that reduce the need for terrestrial infrastructure, essential in remote regions or with little terrestrial connectivity.
+- Highlighted examples:
+    - Intelsat: Provides global telecommunications services with a vast network of satellites in GEO.
+    - SES: Satellite video transmission and Internet access, operating satellites in both GEO and MEO orbits through its O3b constellation.
+- Technical aspects:
+    - Frequency band: They use bands such as Ku (12-18 GHz) and Ka (26-40 GHz) to maximize bandwidth.
+    - Unicast: For specific point-to-point communications.
+    - Broadcast: For transmitting content to large audiences, such as satellite television.
+    - Multicast: For distributing data to a defined group, common in business networks.
+
+**Earth observation satellites**
+
+- Objective and application:
+    - Collection of environmental images and data for monitoring changes in the Earth's surface, predicting weather, and conducting environmental impact studies.
+    - Applications in agriculture, natural resource management, and the monitoring of natural disasters.
+- Highlighted examples:
+    - Sentinel (Copernicus Program): Captures multispectral data for monitoring climate change and environmental disasters.
+    - Landsat: A Series of satellites operated by NASA and the USGS, pioneering continuous monitoring of the Earth's surface since 1972.
+- Technical aspects:
+    - Spatial resolution: variations from 10 m (Sentinel-2) to 30 m (Landsat-8).
+    - Re-visit frequency: ability to observe the same area every few days in LEO.
+    - Sensors: equipped with optical cameras, infrared radiometers, and synthetic aperture radars (SAR) for continuous monitoring under weather conditions.
 
 
+**Navigation Satellites**
 
+- Objective and application:
+    - Provide global positioning services (GNSS) and precise time synchronization.
+    - It is essential for civil and military applications, such as air, maritime, and land navigation, and critical systems, such as electrical and financial networks.
+- Highlighted examples:
+    - GPS: Pioneering system offering global coverage with 24 active satellites in MEO.
+    - GLONASS: Alternative to GPS, with active constellation for global services.
+    - Galileo: The development system is focused on providing high precision for civil applications.
+    - BeiDou: Provides regional and global services in Asia since 2020.
+- Technical aspects:
+    - Constellations are distributed in MEO, ensuring global coverage with multiple satellites that are always visible.
+    - Signal transmission in L1, L2, and L5 bands to reduce interference and improve accuracy.
 
+**Scientific Satellites**
 
+- Objective and application:
+    - Designed for astronomical studies, climate analysis, and exploration of physical phenomena in space.
+    - They make detailed observations from space, eliminating atmospheric distortions.
+- Highlighted examples:
+    - Hubble Space Telescope: LEO orbit for astronomical studies in visible and ultraviolet light.
+    - SOHO: Satellite at the L1 Lagrangian point, dedicated to continuous observation of the Sun.
+- Technical aspects:
+    - Equipped with specialized instruments such as spectrometers, telescopes, and particle detectors.
+    - It is located in LEO or GEO, depending on the scientific objectives.
+    - Redundant systems to avoid critical failures in long-duration missions.
+    
 
+**Military Satellites**
+
+- Objective and application:
+    - They carry out surveillance, espionage, secure communications, and tactical support activities.
+    - They provide critical information in real time for military operations.
+- Highlighted examples:
+    - Keyhole: Optical reconnaissance satellites operated by the United States.
+    - Milstar: Jamming-resistant military communications satellites.
+- Technical aspects:
+    - Highly encrypted to protect sensitive data.
+    - Equipped with advanced radar and multispectral monitoring systems.
+    - Frequent orbital maneuvers to avoid detection or tracking.
+
+**Nanosatellites and CubeSats**
+
+- Technical aspects:
+    - Nanosatellites are satellites with a mass of less than 10 kg, designed to be compact and efficient. At the same time, CubeSats are a specific type of nanosatellite built in modular units of 10x10x10 cm (called 1U).
+    - Their modular architecture allows scalable configurations, such as 1U, 2U, 3U, and up to 6U, adapting to various scientific, educational, and commercial applications.
+    - Reduced cost: They use standard commercial components (COTS - Commercial Off-The-Shelf) to minimize the cost of manufacturing and launch.
+    - Flexibility: It is ideal for short-duration experiments in low orbit (LEO) or for testing new technologies.
+    - Deployment: Frequently launched as secondary payloads on commercial rockets.
+- Highlighted examples:
+    - Scientific: They allow scientists to observe atmospheric phenomena, measure space radiation, and study orbital dynamics.
+    - Educational: They offer universities and research centers an affordable platform for practical training in aerospace engineering.
+    - Designed to monitor air quality in urban areas using optical sensors and spectrometry, sending real-time data to ground stations via S-band radio frequency links.
+- Technical challenges:
+    - Limitations in payload capacity and power generation due to their size.
+    - Greater vulnerability to mechanical failures and radiation compared to larger satellites.
+    
+
+**Commercial and Government Satellites**
+
+- Technical aspects:
+    - Specifically designed to fulfill complex and long-duration missions, integrating advanced technologies and redundant systems to ensure high reliability.
+    - Commercial satellites typically focus on telecommunications, navigation, and Earth observation, while government satellites also cover scientific, meteorological, and defense applications.
+    - Payload systems: These include high-resolution cameras, multi-band spectral sensors, and high-bandwidth telecommunications equipment.
+    - Control subsystems: Attitude control and orientation systems (ADCS) to ensure proper payload alignment with mission objectives.
+    - Power generation: High-efficiency triple-junction solar panels and advanced energy storage systems.
+- Highlighted examples:
+    - Commercial satellites: Intelsat constellation satellites for global telecommunications and PlanetScope satellites for high-frequency imaging.
+    - Government satellites: GOES for meteorology and Keyhole spy satellites operated by intelligence agencies.
+- Technical challenges:
+    - High development and launch costs.
+    - Strict security and data protection requirements to prevent interception or sabotage.
 
 
 
