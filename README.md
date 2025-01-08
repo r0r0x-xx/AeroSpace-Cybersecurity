@@ -26,7 +26,7 @@ Aerospace cybersecurity is critical for protecting the integrity of both aircraf
 
 
 
-## Satellite orbits and technologies
+# Satellite orbits and technologies
 
 Satellites are objects that orbit around a planet or other celestial bodies. They can be natural, like moons, or artificial, which are man-made devices launched into space for various purposes. Artificial satellites serve many functions, including communication, weather monitoring, navigation, scientific research, and Earth observation.
 
@@ -35,6 +35,20 @@ Satellite orbits describe the paths that satellites travel around celestial bodi
 
 ## Types of orbits used in satellite communication
 
+**LEO - Low Earth Orbit**
+
+- Satellite elevation: Between 160 km  and 2,000 km above the Earth's surface.
+- **Main characteristics**:
+    - Short orbital period: 90 to 120 minutes, allowing multiple daily visits to the same region.
+    - The low relative speed for the Earth's surface.
+    - High atmospheric drag, especially at altitudes below 500 km, causes more significant orbit degradation and requires propulsion systems to maintain it.
+- **key functions:**
+    - **Communications constellations:** These are designed to provide global broadband connectivity.
+    - **Earth observation satellites**: Include scientific missions that monitor climate change, agricultural activities, and natural disasters.
+    - **Spy satellites**: These are used by government agencies due to their high image resolution from low altitudes.
+- **Limitations in this orbit**:
+    - Need for large constellations for continuous coverage.
+    - Increased risk of collisions due to the density of objects in this region.
 
 
 
@@ -65,42 +79,3 @@ Satellite orbits describe the paths that satellites travel around celestial bodi
 
 
 
-
-### **2. Introduction to cybersecurity in satellite technology**
-
-- **Attack surfaces**
-    - space segment: satellites and payload systems
-    - user segment: ground terminals and user devices
-    - link segment: communication channels and rf links
-    - ground segment: ground stations and network infrastructure
-- **Satellite attacks**
-    - examples of past incidents, including sparta as a case study
-    - potential vulnerabilities in satellite systems
-    - understanding denial-of-service, spoofing, and interception in satellite environments
-- **Satellite networks and vulnerabilities**
-    - risk analysis of satellite networks
-    - vulnerabilities in communication links
-    - common exploitation scenarios and their implications
- 
-### Offensive cybersecurity in Aerospace and satellite technology
-
-### **. Tools and techniques**
-
-- **Satellite communication analysis**
-    - tools for rf signal interception and analysis
-    - examples: gnuradio, sdr-based tools, and satnogs
-- **Protocol analysis and testing**
-    - tools for analyzing satellite-specific protocols
-    - examples: wireshark, ccsds protocol analyzers
-- **Satellite hardware and firmware assessment**
-    - reverse engineering tools for satellite firmware
-    - examples: ida pro, ghidra, binwalk
-- **Simulators and emulators**
-    - satellite system simulation environments
-    - examples: nos3, openatkit
-- **Network and ground station testing**
-    - tools for network and penetration testing
-    - examples: nmap, metasploit, burp suite
-- **Custom exploit development**
-    - scripting and payload creation for satellite systems
-    - examples: python, c, and assembly for low-level interactions
