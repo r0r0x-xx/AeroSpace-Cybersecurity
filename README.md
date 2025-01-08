@@ -5,7 +5,7 @@ Hey Folks! Over the past three years, I have been self-taught in aerospace techn
 
 ## Contents
 
-* [Introduction](## Introduction)
+* [Introduction](Introduction)
 * [Types of orbits used in satellite communication](###Types-of-orbits-used-in-satellite-communication)
 * [Types of satellites, categories, and services](###Types-of-satellites,-categories,-and-services)
 * [Key hardware components of satellites](###Key-hardware-components-of-satellites)
