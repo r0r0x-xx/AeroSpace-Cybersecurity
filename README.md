@@ -7,19 +7,18 @@ This project is intended for educational purposes only. The author is NOT respon
 
 ## Contents
 
-* [Introduction](##Introduction)
-* [Types of orbits used in satellite communication](##Types-of-orbits-used-in-satellite-communication)
-* [Types of satellites, categories, and services](##Types-of-satellites,-categories,-and-services)
-* [Key hardware components of satellites](##Key-hardware-components-of-satellites)
-* [Key software components of satellites](##Key-software-components-of-satellites)
-* [Key components of satellite communications between satellites and ground stations.](##Key-components-of-satellite-communications-between-satellites-and-ground-stations.)
-* [Types and formats of data sent or used by satellites](##Types-and-formats-of-data-sent-or-used-by-satellites)
-* [Types of antennas used in ground Stations for satellite communication](##Types-of-antennas-used-in-ground-stations-for-satellite-communication)
-* [Introduction to Cybersecurity in Satellite Technology](##Introduction-to-Cybersecurity-in-Satellite-Technology)
-* [Offensive cybersecurity in Aerospace and satellite technology](##Offensive-cybersecurity-in-Aerospace-and-satellite-technology)
-* [Tools and techniques](##Tools-and-techniques)
-* [References and recomendations](##References-and-recomendations)
-
+* Introduction
+* Types of orbits used in satellite communication
+* Types of satellites, categories and services
+* Key hardware components of satellites
+* Key software components of satellites
+* Key components of satellite communications between satellites and ground stations
+* Types and formats of data sent or used by satellites
+* Types of antennas used at ground stations for satellite communications
+* Introduction to cybersecurity in satellite technology
+* Offensive cybersecurity in the aerospace industry and satellite technology
+* Tools and techniques
+* References and recommendations
 
 ## Introduction 
 
