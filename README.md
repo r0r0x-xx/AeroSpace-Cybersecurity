@@ -16,6 +16,7 @@ Hey Folks! Over the past three years, I have been self-taught in aerospace techn
 * [Introduction to Cybersecurity in Satellite Technology](##Introduction-to-Cybersecurity-in-Satellite-Technology)
 * [Offensive cybersecurity in Aerospace and satellite technology](##Offensive-cybersecurity-in-Aerospace-and-satellite-technology)
 * [Tools and techniques](##Tools-and-techniques)
+* [References and recomendations](##References-and-recomendations)
 
 
 ## Introduction 
