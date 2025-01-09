@@ -1,7 +1,7 @@
 
 # An introductory overview of aerospace cybersecurity, satellites, and related topics.
 
-Hey Folks! Over the past 2 years, I have been self-taught in aerospace technology, dedicating a lot of time to learning and researching this field. This repository is a compilation of ideas, notes, and information that I have gathered during this journey. I have organized the material in a clear and coherent manner (I hope so! XD), starting with satellite technology, followed by general aerospace security, and finally, exploring how to hack satellites (This will be detailed in future publications with home-made satellite labs). I hope you find this resource useful for enhancing your understanding and knowledge of this fascinating field! :)
+Hey Folks! Over the past 3 years, I have been self-taught in aerospace technology, dedicating a lot of time to learning and researching this field. This repository is a compilation of ideas, notes, and information that I have gathered during this journey. I have organized the material in a clear and coherent manner (I hope so! XD), starting with satellite technology, followed by general aerospace security, and finally, exploring how to hack satellites (This will be detailed in future publications with home-made satellite labs). I hope you find this resource useful for enhancing your understanding and knowledge of this fascinating field! :)
 
 This project is intended for educational purposes only. The author is NOT responsible for any malicious use or damages caused by this material. Always ensure you have proper authorization before conducting any security testing.
 
