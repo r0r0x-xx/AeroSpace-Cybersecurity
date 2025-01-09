@@ -508,30 +508,30 @@ The following sections will provide a detailed overview of some of the most comm
 Here is a list of references that includes excellent blogs from colleagues, compilations of tools, videos, and additional materials to help you dive deeper into the fascinating world of aerospace cybersecurity.
 
 Communities:
-https://hackasat.com/
-https://dc506.org/
-https://www.hackspacecon.com/HackSpaceCon
-https://www.aerospacevillage.org/
+- https://hackasat.com/
+- https://dc506.org/
+- https://www.hackspacecon.com/HackSpaceCon
+- https://www.aerospacevillage.org/
 
 Tools:
-https://tools.g4lxy.space/
-https://hackaday.io/list/4321-satellite-projects
+- https://tools.g4lxy.space/
+- https://hackaday.io/list/4321-satellite-projects
 
 Videos:
-https://www.youtube.com/watch?v=V4jXVrUJsfM
-https://www.youtube.com/@AerospaceVillage
-https://www.youtube.com/watch?v=Au43CmiOO_g
+- https://www.youtube.com/watch?v=V4jXVrUJsfM
+- https://www.youtube.com/@AerospaceVillage
+- https://www.youtube.com/watch?v=Au43CmiOO_g
 
 References:
-https://www.rtl-sdr.com/about-rtl-sdr/
-https://www.nasa.gov/wp-content/uploads/2017/03/nasa_csli_cubesat_101_508.pdf?emrc=05d3e2
-https://lucasteske.dev/satcom-projects/satellite-projects
-https://github.com/OpenSatKit/OpenSatKit
-https://github.com/nasa/nos3
-https://github.com/orbitalindex/awesome-space
-https://github.com/deptofdefense/hack-a-sat-library
-https://sparta.aerospace.org/
-https://spaceshield.esa.int/
-https://www.spacesecurity.info/
-https://github.com/Peco602/awesome-space-security
-https://attack.mitre.org/matrices/ics/
+- https://www.rtl-sdr.com/about-rtl-sdr/
+- https://www.nasa.gov/wp-content/uploads/2017/03/nasa_csli_cubesat_101_508.pdf?emrc=05d3e2
+- https://lucasteske.dev/satcom-projects/satellite-projects
+- https://github.com/OpenSatKit/OpenSatKit
+- https://github.com/nasa/nos3
+- https://github.com/orbitalindex/awesome-space
+- https://github.com/deptofdefense/hack-a-sat-library
+- https://sparta.aerospace.org/
+- https://spaceshield.esa.int/
+- https://www.spacesecurity.info/
+- https://github.com/Peco602/awesome-space-security
+- https://attack.mitre.org/matrices/ics/
