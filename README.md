@@ -47,7 +47,7 @@ Satellite orbits describe the paths that satellites travel around celestial bodi
 - **key functions:**
     - Communications constellations: These are designed to provide global broadband connectivity.
     - Earth observation satellites: Include scientific missions that monitor climate change, agricultural activities, and natural disasters.
-    - SPY satellites*: These are used by government agencies due to their high image resolution from low altitudes.
+    - SPY satellites: These are used by government agencies due to their high image resolution from low altitudes.
 - **Limitations in this orbit**:
     - Need for large constellations for continuous coverage.
     - Increased risk of collisions due to the density of objects in this region.
