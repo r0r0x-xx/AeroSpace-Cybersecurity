@@ -35,19 +35,19 @@ Satellites are objects that orbit around a planet or other celestial bodies. The
 Satellite orbits describe the paths that satellites travel around celestial bodies like Earth. These paths are shaped by the interplay between the planet's gravitational force and the satellite's velocity. Orbits are key in determining a satellite's purpose, its cover area, and how long it can operate. Technically, orbits are characterized by altitude, inclination, eccentricity, and time to complete a full revolution.
 
 
-## Types of orbits used in satellite communication
+## Types of orbits used in satellite communications
 
 **LEO - Low Earth Orbit**
 
-- Satellite elevation: Between 160 km  and 2,000 km above the Earth's surface.
+- **Satellite elevation**: Between 160 km  and 2,000 km above the Earth's surface.
 - **Main characteristics**:
     - Short orbital period: 90 to 120 minutes, allowing multiple daily visits to the same region.
     - The low relative speed for the Earth's surface.
     - High atmospheric drag, especially at altitudes below 500 km, causes more significant orbit degradation and requires propulsion systems to maintain it.
 - **key functions:**
-    - **Communications constellations:** These are designed to provide global broadband connectivity.
-    - **Earth observation satellites**: Include scientific missions that monitor climate change, agricultural activities, and natural disasters.
-    - **Spy satellites**: These are used by government agencies due to their high image resolution from low altitudes.
+    - Communications constellations: These are designed to provide global broadband connectivity.
+    - Earth observation satellites: Include scientific missions that monitor climate change, agricultural activities, and natural disasters.
+    - Spy satellites**: These are used by government agencies due to their high image resolution from low altitudes.
 - **Limitations in this orbit**:
     - Need for large constellations for continuous coverage.
     - Increased risk of collisions due to the density of objects in this region.
@@ -61,8 +61,8 @@ Satellite orbits describe the paths that satellites travel around celestial bodi
     - Less atmospheric interference extends the satellite's lifetime and reduces the need for frequent maneuvers.
     - Improved regional coverage due to increased visibility range.
 - **key functions:**
-    - **Navigation systems**: GPS, Galileo, GLONASS, and BeiDou. Satellites in MEO offer consistent and accurate signals for global positioning.
-    - **Scientific satellites**: Designed for long-term monitoring missions, such as analysis of Earth's magnetic fields.
+    - Navigation systems: GPS, Galileo, GLONASS, and BeiDou. Satellites in MEO offer consistent and accurate signals for global positioning.
+    - Scientific satellites: Designed for long-term monitoring missions, such as analysis of Earth's magnetic fields.
 - **Limitations in this orbit**:
     - Requires powerful telecommunications systems due to the greater distance from the Earth's surface.
     - Lower spatial resolution compared to LEO satellites.
@@ -315,9 +315,9 @@ The user segment consists of the devices and systems that end-users employ to in
 
 **Key Components**:
 
-- **Ground Terminals**: Fixed or mobile stations that transmit and receive satellite signals. These terminals are essential for accessing satellite services.
-- **User Equipment**: End-user devices, including satellite phones, IoT sensors, GPS-enabled devices, and satellite-based modems.
-- **Data Processing Systems**: Devices and software used by end-users to process and interpret satellite data.
+- Ground Terminals: Fixed or mobile stations that transmit and receive satellite signals. These terminals are essential for accessing satellite services.
+- User Equipment: End-user devices, including satellite phones, IoT sensors, GPS-enabled devices, and satellite-based modems.
+- Data Processing Systems: Devices and software used by end-users to process and interpret satellite data.
 
 **Potential Attack Vectors**:
 
